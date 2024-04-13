@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qavivekchandra&label=Profile%20views&color=0e75b6&style=flat" alt="qavivekchandra" /> </p>
 
-- 🔭 I’m currently working on **Python Selenium**
+- 🔭 I’m currently working on **Python Automation Scripting**
 
-- 🌱 I’m currently learning **Python, API, Jenkins and MySQL**
+- 🌱 I’m currently learning **Python, API, PlayWright,Selenium,Jenkins and MySQL**
 
-- 👯 I’m looking to collaborate on **Test Automation**
+- 👯 I’m looking to collaborate on **Python Automation**
 
 - 🤝 I’m looking for help with **Python Script**
 
