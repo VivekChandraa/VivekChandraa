@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qavivekchandra&label=Profile%20views&color=0e75b6&style=flat" alt="qavivekchandra" /> </p>
 
-- 🔭 I’m currently working on **Python Automation Scripting**
+- 🔭 I’m currently learning **Python Automation Scripting**
 
 - 🌱 I’m currently learning **Python, API, PlayWright,Selenium,Jenkins and MySQL**
 
